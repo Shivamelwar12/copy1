@@ -2,7 +2,7 @@
 #include<string.h> 
 void menucall();
 
-void 
+ 
 struct login 
 {
 	char name[20];
